@@ -58,8 +58,10 @@ Auxilia na componentização, ou seja, reaproveitamento de código, Aplicado par
 
 
 ### Biblioteca para o gerenciamento de rotas em React:
+´´´
   - npm install react-router-dom
   - Gerencia diferentes paginas (No entanto em um mesmo HTML) (SPA -Single Page Application)
+´´´
 
 
 
